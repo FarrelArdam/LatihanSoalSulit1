@@ -4,7 +4,7 @@ Cara Kerja:
 
 Program meminta untuk memasukkan jumlah siswa.
 
-Melalui perulangan for, prgroam meminta untuk menginput nilai setiap siswa.
+Melalui perulangan for, program meminta untuk menginput nilai setiap siswa.
 
 Semua nilai dijumlahkan ke variabel totalNilai.
 
